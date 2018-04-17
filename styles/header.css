@@ -1,0 +1,44 @@
+#header{
+	height: 100px;
+	/*width: 1366px;*/
+	/*background-image: url(../images/bg-1.jpg);*/
+	/*background-repeat: no-repeat;*/
+	margin: 0px auto;
+	background: lightblue;
+}
+#logo-img{
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+#logo-search{
+	float: left;
+	margin-top: 35px;
+	margin-left: 560px;
+	height: 35px;
+	width: 360px;
+}
+#logo-reg{
+	float: right;
+	margin-top: 40px;
+}
+#header ul{
+	list-style: none;
+	margin-top: 0px;
+	/*float: right;*/
+}
+#header ul li{
+	float: right;
+	margin: 0px 20px;
+}
+#logo{
+	height: 100px;
+	float: left;
+}
+#logo img{
+    width: 178px;
+    height: 100px;
+    /*margin-top: 0px;*/
+    margin-left: 165px;
+    float: left;
+}
